@@ -1,0 +1,134 @@
+[
+  {
+    "id": "TK0001",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TK0002",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TK0003",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0001",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0002",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0003",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0004",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0005",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0006",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0007",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0008",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  },
+  {
+    "id": "TR0009",
+    "vehicle_info": {
+      "start_address": {
+        "location_id": "Bãi xe",
+        "lon": 106.664658,
+        "lat": 10.847044
+      }
+    },
+    "state": "Free"
+  }
+]

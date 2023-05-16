@@ -1,0 +1,204 @@
+[
+  {
+    "id": "TASK0001",
+    "description": "Dọn rác khu vực quận Gò Vấp",
+    "createdBy": "BO0001",
+    "createdDate": "2023/02/25",
+    "createdHour": "09:23",
+    "janitor": [
+      {
+        "id": "JN0001",
+        "mcp": "MCP0002",
+        "vehicle": "TR0001"
+      },
+      {
+        "id": "JN0002",
+        "mcp": "MCP0005",
+        "vehicle": "TR0002"
+      }
+    ],
+    "collector": [
+      {
+        "id": "CO0007",
+        "vehicle": "TK0002"
+      }
+    ],
+    "route": [
+      {
+        "id": "1",
+        "address": {
+          "location_id": "132 Lê Văn Thọ",
+          "lon": 106.657142,
+          "lat": 10.844348
+        }
+      },
+      {
+        "id": "2",
+        "address": {
+          "location_id": "435 Lê Đức Thọ",
+          "lon": 106.674036,
+          "lat": 10.843802
+        }
+      },
+      {
+        "id": "3",
+        "address": {
+          "location_id": "32 Nguyễn Văn Lượng",
+          "lon": 106.674604,
+          "lat": 10.838689
+        }
+      },
+      {
+        "id": "4",
+        "address": {
+          "location_id": "1043 Lê Đức Thọ",
+          "lon": 106.661639,
+          "lat": 10.851777
+        }
+      }
+    ],
+    "startDate": "2023-01-01",
+    "startTime": "6:00 PM",
+    "endTime": "7:00 PM",
+    "checkoutTime": "6:55 PM",
+    "state": "2"
+  },
+  {
+    "id": "TASK0002",
+    "description": "Dọn rác khu vực quận Gò Vấp II",
+    "createdBy": "BO0001",
+    "createdDate": "2023/02/25",
+    "createdHour": "09:23",
+    "janitor": [
+      {
+        "id": "JN0003",
+        "mcp": "MCP0001",
+        "vehicle": "TR0003"
+      },
+      {
+        "id": "JN0004",
+        "mcp": "MCP0004",
+        "vehicle": "TR0004"
+      },
+      {
+        "id": "JN0005",
+        "mcp": "MCP0006",
+        "vehicle": "TR0005"
+      }
+    ],
+    "collector": [
+      {
+        "id": "CO0002",
+        "vehicle": "TK0001"
+      }
+    ],
+    "route": [
+      {
+        "id": "1",
+        "address": {
+          "location_id": "132 Lê Văn Thọ",
+          "lon": 106.657142,
+          "lat": 10.844348
+        }
+      },
+      {
+        "id": "2",
+        "address": {
+          "location_id": "435 Lê Đức Thọ",
+          "lon": 106.674036,
+          "lat": 10.843802
+        }
+      },
+      {
+        "id": "3",
+        "address": {
+          "location_id": "32 Nguyễn Văn Lượng",
+          "lon": 106.674604,
+          "lat": 10.838689
+        }
+      },
+      {
+        "id": "4",
+        "address": {
+          "location_id": "1043 Lê Đức Thọ",
+          "lon": 106.661639,
+          "lat": 10.851777
+        }
+      }
+    ],
+    "startDate": "2023-01-02",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "checkoutTime": "9:14 PM",
+    "state": "2"
+  },
+  {
+    "id": "TASK0003",
+    "description": "Dọn rác khu vực quận Gò Vấp III",
+    "createdBy": "BO0001",
+    "createdDate": "2023/02/25",
+    "createdHour": "09:23",
+    "janitor": [
+      {
+        "id": "JN0003",
+        "mcp": "MCP0001",
+        "vehicle": "TR0003"
+      },
+      {
+        "id": "JN0004",
+        "mcp": "MCP0004",
+        "vehicle": "TR0004"
+      },
+      {
+        "id": "JN0005",
+        "mcp": "MCP0006",
+        "vehicle": "TR0005"
+      }
+    ],
+    "collector": [
+      {
+        "id": "CO0002",
+        "vehicle": "TK0001"
+      }
+    ],
+    "route": [
+      {
+        "id": "1",
+        "address": {
+          "location_id": "132 Lê Văn Thọ",
+          "lon": 106.657142,
+          "lat": 10.844348
+        }
+      },
+      {
+        "id": "2",
+        "address": {
+          "location_id": "435 Lê Đức Thọ",
+          "lon": 106.674036,
+          "lat": 10.843802
+        }
+      },
+      {
+        "id": "3",
+        "address": {
+          "location_id": "32 Nguyễn Văn Lượng",
+          "lon": 106.674604,
+          "lat": 10.838689
+        }
+      },
+      {
+        "id": "4",
+        "address": {
+          "location_id": "1043 Lê Đức Thọ",
+          "lon": 106.661639,
+          "lat": 10.851777
+        }
+      }
+    ],
+    "startDate": "2023-01-03",
+    "startTime": "8:00 PM",
+    "endTime": "9:00 PM",
+    "checkoutTime": "9:14 PM",
+    "state": "2"
+  }
+]
